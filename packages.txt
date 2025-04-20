@@ -1,0 +1,2 @@
+libpango1.0-dev
+pkg-config

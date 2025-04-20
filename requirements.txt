@@ -1,0 +1,9 @@
+requests
+librosa
+manim
+groq
+beautifulsoup4
+together
+pydub
+moviepy
+python-dotenv
